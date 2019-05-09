@@ -1,4 +1,9 @@
 {
+  "author": {
+    "name": "FutureSaiyajin",
+    "email": "futuresaiyajin@online.de",
+    "url": "https://futuresaiyajin.de/"
+  },
   "name": "template-react-app",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +22,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "test:e2e": "wdio wdio.conf.js"
   },
   "eslintConfig": {
